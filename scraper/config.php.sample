@@ -1,0 +1,8 @@
+<?php
+
+# TODO Fill this in with your info!
+# Scraper username used to log in to facebook
+$api_key = "1234567890";
+$app_secret = "derp derp derp";
+
+?>
