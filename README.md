@@ -37,7 +37,7 @@ As listed in `requirements.txt`, this project depends on `requests` and
 `python-memcached`. You can ensure you have the requirements by executing the
 following:
 
-    `pip install -r requirements.txt`.
+    pip install -r requirements.txt
 
 ## License
 
